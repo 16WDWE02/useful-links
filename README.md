@@ -10,3 +10,9 @@ Here you will find a constantly evolving list of useful links to resources onlin
 [HTML5 Doctor](http://html5doctor.com/)
 
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+
+## Tutorials
+
+[Try Git](https://www.codeschool.com/courses/try-git) on [CodeSchool](https://www.codeschool.com) (Highly recommended)
+
+[Codecademy](https://www.codecademy.com/)
