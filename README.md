@@ -5,6 +5,18 @@ Here you will find a constantly evolving list of useful links to resources onlin
 
 [Smashing Magazine](https://www.smashingmagazine.com/)
 
+## Inspiration
+
+[Behance](https://www.behance.net/)
+
+[DesignInspiration](http://designspiration.net/)
+
+[From up North](http://www.fromupnorth.com/)
+
+[DesignTaxi](http://designtaxi.com/)
+
+[Awwwards](http://www.awwwards.com/)
+
 ## Code references
 
 [HTML5 Doctor](http://html5doctor.com/)
