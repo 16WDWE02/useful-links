@@ -17,6 +17,16 @@ Here you will find a constantly evolving list of useful links to resources onlin
 
 [Awwwards](http://www.awwwards.com/)
 
+## Software
+
+[Adobe Creative Cloud for Students $14.99 a month](http://www.adobe.com/nz/creativecloud/buy/students.html)
+
+[Krita - Digital painting software](https://krita.org/)
+
+[Inkscape - Vector graphics](https://krita.org/)
+
+[GIMP - Poor PhotoShop alternative](https://www.gimp.org/)
+
 ## Code references
 
 [HTML5 Doctor](http://html5doctor.com/)
