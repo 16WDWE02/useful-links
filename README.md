@@ -17,6 +17,10 @@ Here you will find a constantly evolving list of useful links to resources onlin
 
 [Awwwards](http://www.awwwards.com/)
 
+## Free graphics (Creative Commons etc)
+
+[Subtle Patterns](http://subtlepatterns.com/)
+
 ## Software
 
 | Open Source / Free | Paid |
