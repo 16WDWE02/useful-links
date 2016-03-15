@@ -40,3 +40,10 @@ Here you will find a constantly evolving list of useful links to resources onlin
 [Try Git](https://www.codeschool.com/courses/try-git) on [CodeSchool](https://www.codeschool.com) (Highly recommended)
 
 [Codecademy](https://www.codecademy.com/)
+
+## Useful code knowledge
+
+[All about floats in CSS](https://css-tricks.com/all-about-floats/)
+
+[CSS Specificity](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
+
