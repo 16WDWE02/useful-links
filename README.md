@@ -41,6 +41,8 @@ Here you will find a constantly evolving list of useful links to resources onlin
 
 [Codecademy](https://www.codecademy.com/)
 
+[Learn JavaScript](https://www.codeschool.com/courses/javascript-road-trip-part-1) A short by interactive and interesting *introduction* to JavaScript.
+
 ## Useful code knowledge
 
 [All about floats in CSS](https://css-tricks.com/all-about-floats/)
