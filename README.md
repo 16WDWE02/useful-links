@@ -41,7 +41,7 @@ Here you will find a constantly evolving list of useful links to resources onlin
 
 [Codecademy](https://www.codecademy.com/)
 
-[Learn JavaScript](https://www.codeschool.com/courses/javascript-road-trip-part-1) A short by interactive and interesting *introduction* to JavaScript.
+[Learn JavaScript](https://www.codeschool.com/courses/javascript-road-trip-part-1) A short but interactive and interesting *introduction* to JavaScript.
 
 ## Useful code knowledge
 
